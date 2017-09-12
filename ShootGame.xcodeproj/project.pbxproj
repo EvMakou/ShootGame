@@ -202,6 +202,7 @@
 				TargetAttributes = {
 					713AAA791F668DA1002420C9 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 87326TVXN2;
 						ProvisioningStyle = Automatic;
 					};
 					713AAA931F668DA1002420C9 = {
@@ -424,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 87326TVXN2;
 				INFOPLIST_FILE = ShootGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.machoman.ShootGame;
@@ -436,6 +438,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 87326TVXN2;
 				INFOPLIST_FILE = ShootGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.machoman.ShootGame;
